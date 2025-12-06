@@ -1,1 +1,0 @@
-Example AI-generated samples go here. Add `.txt` files for demo.

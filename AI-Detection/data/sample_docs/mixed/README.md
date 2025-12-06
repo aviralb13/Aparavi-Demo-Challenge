@@ -1,1 +1,0 @@
-Example mixed (partially AI-assisted) documents go here.

@@ -1,8 +1,0 @@
-Title: Notes from Project Kickoff
-
-We met with the core team on Monday. The discussion covered scope, timelines, and roles. Several concerns were raised about data access and the need for weekly check-ins. Action items:
-- Alice to coordinate access requests.
-- Bob to prepare a draft data governance checklist.
-- Schedule follow-up for next Tuesday.
-
-These notes were written quickly during the meeting and retain conversational phrasing and some terse bullets.
