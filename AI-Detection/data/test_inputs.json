@@ -1,0 +1,7 @@
+{
+  "samples": [
+    "data/sample_docs/ai_generated/sample_ai_1.txt",
+    "data/sample_docs/human_written/sample_human_1.txt",
+    "data/sample_docs/mixed/sample_mixed_1.txt"
+  ]
+}
