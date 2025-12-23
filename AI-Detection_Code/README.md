@@ -8,28 +8,15 @@ Goals
 - Provide a small dashboard/report layer for reviewers
 
 Quick start
-1. Populate `data/sample_docs/` with sample files (AI / human / mixed).
-2. Prepare `aparavi_integration/config.example.json` and rename to `config.json` with your keys.
-3. Run ingestion helper:
+
+1. Launch the demo UI:
 
 ```bash
-python ingestion/load_data.py --source data/sample_docs --out staging_for_aparavi/
-```
-
-4. Run the detector locally on sample inputs:
-
-```bash
-python detector/ai_classifier.py --input data/test_inputs.json
-```
-
-5. (Optional) Launch the Streamlit demo UI:
-
-```bash
-streamlit run dashboard/streamlit_app.py
+npm run dev
 ```
 
 Repository structure
-See the `shadow-ai-detection/` top-level folders for demos, ingest code, detector code, Aparavi integration glue, dashboard and docs.
+See the `Ai-detection/` top-level folders for demos, ingest code, detector code, Aparavi integration glue, dashboard and docs.
 
 License & notes
 This skeleton contains placeholder implementations for demonstration. Replace keys and LLM usage with your secure implementations before running in production.
